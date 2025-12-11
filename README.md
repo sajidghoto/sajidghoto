@@ -1,7 +1,7 @@
 # Hi there, I'm Sajid Ali 👋
 
 ## 🚀 About Me
-I'm a passionate **Full-Stack Developer** specializing in **React, Next.js, Node.js, and PostgreSQL**. I leverage modern technologies and best practices to build scalable, performant, and user-friendly web applications. With a strong foundation in software development, I focus on delivering high-quality solutions that solve real-world problems.
+I'm a passionate **Full-Stack Developer** specializing in **React, Next.js, Node.js, and PostgreSQL**. I leverage modern technologies and best practices to build scalable, performant, and user-friendly web applications. With a strong foundation in software engineering, I focus on delivering high-quality solutions that solve real-world problems.
 
 I thrive in **fast-paced, collaborative environments**, constantly learning and applying cutting-edge tools to improve the products I build.  
 
@@ -23,13 +23,13 @@ I thrive in **fast-paced, collaborative environments**, constantly learning and 
 
 ### Tools & Platforms
 - Git & GitHub
-- Docker & Kubernetes (basic)
+- Docker & Kubernetes
 - Postman / Thunder Client
 - CI/CD pipelines
 - VS Code & Productivity Tools
 
 ### AI & Productivity
-- AI-assisted coding (ChatGPT, Copilot, Claude AI)
+- AI-assisted coding (Blackbox AI, Grock, Claude AI, Cursor)
 - Internet research with AI for code optimization and problem-solving
 
 ---
@@ -57,8 +57,8 @@ Here are some of my notable projects:
 ---
 
 ## 🌐 Connect with Me
-- **LinkedIn:** [linkedin.com/in/sajid-ali](www.linkedin.com/in/sajidali-dev)
-- **Email:** [sajid@example.com](mailto:sajidalighoto.dev@example.com)
+- **LinkedIn:** [linkedin.com/in/sajid-ali-dev](www.linkedin.com/in/sajidali-dev)
+- **Email:** [sajidalighoto.dev@gmail.com](mailto:sajidalighoto.dev@gmail.com)
 - **Portfolio:** 
 
 ---
