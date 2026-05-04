@@ -1,6 +1,6 @@
 # Hi, I'm Sajid Ali
 
-Full-stack CS student at Sukkur IBA University (graduating May 2027) with hands-on experience shipping production features across two remote team environments — a completed internship at 10Pearls and a part-time role at Infirix.
+Full-stack CS student at Sukkur IBA University with hands-on experience shipping production features across two remote team environments — a completed internship at 10Pearls and a part-time role at Infirix.
 
 I build full-stack web applications and AI-powered tools using React, Next.js, Node.js, Python, and FastAPI. I care about clean code, tested systems, and shipping things that actually work.
 
