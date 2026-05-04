@@ -1,68 +1,71 @@
-# Hi there, I'm Sajid Ali 👋
+# Hi, I'm Sajid Ali
 
-## 🚀 About Me
-I'm a passionate **Full-Stack Developer** specializing in **React, Next.js, Node.js, and PostgreSQL**. I leverage modern technologies and best practices to build scalable, performant, and user-friendly web applications. With a strong foundation in software engineering, I focus on delivering high-quality solutions that solve real-world problems.
+Full-stack CS student at Sukkur IBA University (graduating May 2027) with hands-on experience shipping production features across two remote team environments — a completed internship at 10Pearls and a part-time role at Infirix.
 
-I thrive in **fast-paced, collaborative environments**, constantly learning and applying cutting-edge tools to improve the products I build.  
-
----
-
-## 💼 Skills & Technologies
-
-### Frontend
-- **React.js / Next.js**
-- **TypeScript / JavaScript**
-- **Tailwind CSS / Material UI**
-- **Responsive & Accessible Design**
-
-### Backend
-- **Node.js / Express.js**
-- **Prisma / PostgreSQL**
-- **REST APIs & GraphQL**
-- **Authentication & Authorization**
-
-### Tools & Platforms
-- Git & GitHub
-- Docker & Kubernetes
-- Postman / Thunder Client
-- CI/CD pipelines
-- VS Code & Productivity Tools
-
-### AI & Productivity
-- AI-assisted coding (Blackbox AI, Grock, Claude AI, Cursor)
-- Internet research with AI for code optimization and problem-solving
+I build full-stack web applications and AI-powered tools using React, Next.js, Node.js, Python, and FastAPI. I care about clean code, tested systems, and shipping things that actually work.
 
 ---
 
-## 🌟 Projects
-Here are some of my notable projects:
+## 🛠 Tech Stack
 
-### 1. **University Counseling Platform**
-- Full-stack web app for managing student-university applications.
-- Built with Next.js, Prisma, PostgreSQL.
-- Features: dynamic filtering, wishlist, authentication, and role-based access.
+**Frontend**
+React · Next.js · TypeScript · Tailwind CSS · Shadcn UI · Redux
 
-### 2. **Medical Appointment System**
-- Backend API for booking, scheduling, and managing appointments.
-- Implements robust access control, payment integration, and slot availability logic.
-- Technologies: Node.js, Prisma, PostgreSQL.
+**Backend**
+Node.js · Express.js · FastAPI · RESTful APIs · JWT Authentication
 
-### 3. **AI-Powered Data Visualizer**
-- Desktop software for visualizing raw datasets.
-- Enables users to perform analysis and generate insights easily.
-- Built using Python and modern visualization libraries.
+**Databases**
+PostgreSQL · MongoDB · MySQL · Prisma ORM
 
-*Check out my GitHub repositories for full project details!*
+**AI & Data**
+Gemini API · RAG Pipelines · TF-IDF · Intent Classification · Pandas
+
+**Testing & DevOps**
+Jest · Mocha · Chai · SonarQube · GitHub Actions · CI/CD · Vercel · Supabase
 
 ---
 
-## 🌐 Connect with Me
-- **LinkedIn:** [linkedin.com/in/sajid-ali-dev](www.linkedin.com/in/sajidali-dev)
-- **Email:** [sajidalighoto.dev@gmail.com](mailto:sajidalighoto.dev@gmail.com)
-- **Portfolio:** 
+## 🚀 Featured Projects
+
+### [Study Assistant](https://github.com/sajidghoto/study-assistant)
+*Python · FastAPI · React · TF-IDF · RAG · Gemini API*
+
+An NLP-powered document assistant that classifies user queries into 4 intent types — answer, compare, summarize, quiz — using a switchable TF-IDF / RAG pipeline. Achieves ~90% intent classification accuracy on test documents. Full-stack: FastAPI backend + React frontend with document upload, context retrieval, and LLM-generated responses via the Gemini API.
 
 ---
 
-## ⚡ Fun Fact
-I combine **AI tools with coding expertise** to research, optimize, and deliver high-quality solutions faster.  
+### [Applywise — University Counseling Platform](https://github.com/sajidghoto)
+*React · Next.js · Node.js · PostgreSQL · Prisma*
 
+Part-time contributor at Infirix. Shipped 4+ full-stack features on a live SaaS product for study-abroad students — including a student wishlist system, application tracking dashboard, and counselor review portal. Also built the complete transactional email service using the Resend API.
+
+---
+
+### [EDA Data Visualizer](https://github.com/sajidghoto/eda-visualizer)
+*Python · FastAPI · Pandas · JavaScript · HTML/CSS*
+
+A web tool that ingests CSV/Excel datasets, automates EDA preprocessing, and renders statistical graphs. Group project — I led the team of 3, handled GitHub setup, task coordination, and contributed to both frontend and backend.
+
+---
+
+### [E-Commerce Store](https://github.com/sajidghoto)
+*React · TypeScript · Tailwind CSS · Context API*
+
+Fully responsive e-commerce frontend with product listing, cart management, and global state via Context API. Deployed to production and tested across multiple device breakpoints. → [Live Demo](https://github.com/sajidghoto)
+
+---
+
+## 💼 Experience
+
+**Software Engineer Intern — Full Stack** @ [10Pearls](https://10pearls.com) *(Dec 2025 – Feb 2026)*
+Built a production-grade Notes Application with Node.js, React, and PostgreSQL. Achieved 85%+ test coverage with Jest, Mocha, Chai, and SonarQube quality gates. Worked under direct code review by a Principal Software Consultant.
+
+**Part-Time Software Engineer — Full Stack** @ Infirix *(Jan 2025 – Nov 2025)*
+Shipped features on Applywise across 3 sprint cycles. Built automated email workflows, wrote unit tests, and authored a CI script with GitHub Actions. Collaborated in an Agile/Scrum team of 5+.
+
+---
+
+## 📬 Connect
+
+- 📧 sajidalighoto.dev@gmail.com
+- 💼 [linkedin.com/in/sajidali-dev](https://www.linkedin.com/in/sajidali-dev)
