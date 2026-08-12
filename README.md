@@ -1,27 +1,28 @@
 # Hi, I'm Sajid Ali
 
-Full-stack CS student at Sukkur IBA University with hands-on experience shipping production features across two remote team environments — a completed internship at 10Pearls and a part-time role at Infirix.
-
-I build full-stack web applications and AI-powered tools using React, Next.js, Node.js, Python, and FastAPI. I care about clean code, tested systems, and shipping things that actually work.
+Full-stack CS student at Sukkur IBA University (graduating May 2027) with 
+hands-on experience building AI-powered applications and leading engineering 
+teams across three internships. I build with React, Next.js, Python, FastAPI, 
+and LLM APIs. I care about shipping things that actually work.
 
 ---
 
 ## 🛠 Tech Stack
 
+**AI & Agentic**
+Gemini API · RAG Pipelines · TF-IDF · Intent Classification · n8n Workflow Automation
+
 **Frontend**
 React · Next.js · TypeScript · Tailwind CSS · Shadcn UI · Redux
 
 **Backend**
-Node.js · Express.js · FastAPI · RESTful APIs · JWT Authentication
+Node.js · Express.js · FastAPI · RESTful APIs · JWT · Redis · Celery
 
 **Databases**
 PostgreSQL · MongoDB · MySQL · Prisma ORM
 
-**AI & Data**
-Gemini API · RAG Pipelines · TF-IDF · Intent Classification · Pandas
-
 **Testing & DevOps**
-Jest · Mocha · Chai · SonarQube · GitHub Actions · CI/CD · Vercel · Supabase
+Jest · Mocha · Chai · SonarQube · SonarCloud · GitHub Actions · CI/CD · Vercel · Render
 
 ---
 
@@ -30,42 +31,59 @@ Jest · Mocha · Chai · SonarQube · GitHub Actions · CI/CD · Vercel · Supab
 ### [Study Assistant](https://github.com/sajidghoto/study-assistant)
 *Python · FastAPI · React · TF-IDF · RAG · Gemini API*
 
-An NLP-powered document assistant that classifies user queries into 4 intent types — answer, compare, summarize, quiz — using a switchable TF-IDF / RAG pipeline. Achieves ~90% intent classification accuracy on test documents. Full-stack: FastAPI backend + React frontend with document upload, context retrieval, and LLM-generated responses via the Gemini API.
+An NLP-powered document assistant that classifies user queries into 5 intent 
+types — answer, explain, compare, summarize, quiz — using a switchable 
+TF-IDF / RAG pipeline. ~90% intent classification accuracy. Full-stack: 
+FastAPI backend + React frontend with document upload, context retrieval, 
+and LLM-generated responses via the Gemini API.
 
 ---
 
-### [Applywise — University Counseling Platform](https://github.com/sajidghoto)
+### [Multi-Tool Document & Media Platform](https://github.com/sajidghoto)
+*React · Tailwind CSS · FastAPI · Python · Redis · Celery*
+
+Led a team of 6 to build and ship a 150+ tool platform for document, audio, 
+and video processing — PDF merging/splitting, video trimming, audio/video 
+format conversions. Architected the full project, set up CI pipelines, 
+integrated SonarCloud, reviewed every PR. Deployed on Vercel and Render.
+
+---
+
+### [Applywise — Study Abroad Counseling SaaS](https://github.com/sajidghoto)
 *React · Next.js · Node.js · PostgreSQL · Prisma*
 
-Part-time contributor at Infirix. Shipped 4+ full-stack features on a live SaaS product for study-abroad students — including a student wishlist system, application tracking dashboard, and counselor review portal. Also built the complete transactional email service using the Resend API.
+Part-time contributor at Infirix. Shipped a student wishlist system, 
+application tracking dashboard, counselor review portal, and complete 
+transactional email automation using the Resend API on a live SaaS product.
 
 ---
 
 ### [EDA Data Visualizer](https://github.com/sajidghoto/eda-visualizer)
 *Python · FastAPI · Pandas · JavaScript · HTML/CSS*
 
-A web tool that ingests CSV/Excel datasets, automates EDA preprocessing, and renders statistical graphs. Group project — I led the team of 3, handled GitHub setup, task coordination, and contributed to both frontend and backend.
-
----
-
-### [E-Commerce Store](https://github.com/sajidghoto)
-*React · TypeScript · Tailwind CSS · Context API*
-
-Fully responsive e-commerce frontend with product listing, cart management, and global state via Context API. Deployed to production and tested across multiple device breakpoints. → [Live Demo](https://github.com/sajidghoto)
+Led a team of 3. Web tool ingesting CSV/Excel datasets, automating EDA 
+preprocessing, and rendering statistical graphs.
 
 ---
 
 ## 💼 Experience
 
-**Software Engineer Intern — Full Stack** @ [10Pearls](https://10pearls.com) *(Dec 2025 – Feb 2026)*
-Built a production-grade Notes Application with Node.js, React, and PostgreSQL. Achieved 85%+ test coverage with Jest, Mocha, Chai, and SonarQube quality gates. Worked under direct code review by a Principal Software Consultant.
+**Technical Lead — Full Stack** @ Strategic Media Journey *(Jun 2026 – Jul 2026)*
+Led team of 6 to deliver a 150+ tool document and media processing platform. 
+Architected project structure, CI scripts, SonarCloud integration, PR reviews. 
+Deployed on Vercel and Render.
+
+**Software Engineering Intern — Full Stack** @ [10Pearls](https://10pearls.com) *(Dec 2025 – Feb 2026)*
+Built a full-stack Notes Application with Node.js, React, PostgreSQL. 85%+ 
+test coverage with Jest, Mocha, Chai, SonarQube. Code reviewed by a 
+Principal Software Consultant.
 
 **Part-Time Software Engineer — Full Stack** @ Infirix *(Jan 2025 – Nov 2025)*
-Shipped features on Applywise across 3 sprint cycles. Built automated email workflows, wrote unit tests, and authored a CI script with GitHub Actions. Collaborated in an Agile/Scrum team of 5+.
+Shipped features on Applywise across 3 sprint cycles. Built automated email 
+workflows, CI scripts with GitHub Actions, Agile/Scrum team of 5+.
 
 ---
 
 ## 📬 Connect
-
 - 📧 sajidalighoto.dev@gmail.com
 - 💼 [linkedin.com/in/sajidali-dev](https://www.linkedin.com/in/sajidali-dev)
