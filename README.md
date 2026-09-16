@@ -39,7 +39,7 @@ and LLM-generated responses via the Gemini API.
 
 ---
 
-### [Multi-Tool Document & Media Platform](https://github.com/sajidghoto)
+### [Multi-Tool Document & Media Platform](https://sajidghoto-tool-nest.vercel.app)
 *React · Tailwind CSS · FastAPI · Python · Redis · Celery*
 
 Led a team of 6 to build and ship a 150+ tool platform for document, audio, 
@@ -58,7 +58,7 @@ transactional email automation using the Resend API on a live SaaS product.
 
 ---
 
-### [EDA Data Visualizer](https://github.com/sajidghoto/eda-visualizer)
+### [EDA Data Visualizer](https://github.com/sajidghoto/data-visualizer)
 *Python · FastAPI · Pandas · JavaScript · HTML/CSS*
 
 Led a team of 3. Web tool ingesting CSV/Excel datasets, automating EDA 
@@ -68,7 +68,7 @@ preprocessing, and rendering statistical graphs.
 
 ## 💼 Experience
 
-**Technical Lead — Full Stack** @ Strategic Media Journey *(Jun 2026 – Jul 2026)*
+**Technical Lead — Full Stack** @ [Strategic Media Journey](https://smjsols.com) *(Jun 2026 – Jul 2026)*
 Led team of 6 to deliver a 150+ tool document and media processing platform. 
 Architected project structure, CI scripts, SonarCloud integration, PR reviews. 
 Deployed on Vercel and Render.
@@ -78,7 +78,7 @@ Built a full-stack Notes Application with Node.js, React, PostgreSQL. 85%+
 test coverage with Jest, Mocha, Chai, SonarQube. Code reviewed by a 
 Principal Software Consultant.
 
-**Part-Time Software Engineer — Full Stack** @ Infirix *(Jan 2025 – Nov 2025)*
+**Part-Time Software Engineer — Full Stack** @ [Infirix](https://www.infirix.io) *(Jan 2025 – Nov 2025)*
 Shipped features on Applywise across 3 sprint cycles. Built automated email 
 workflows, CI scripts with GitHub Actions, Agile/Scrum team of 5+.
 
